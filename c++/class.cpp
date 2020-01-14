@@ -27,7 +27,9 @@ int main() {
 	obj1.age = 20; 
 
 	// accessing member function 
-	obj1.printall(); 
+	obj1.printall();
+	cout << obj1.name << endl ;
+	
 	return 0; 
 } 
 

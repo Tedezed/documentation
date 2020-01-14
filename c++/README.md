@@ -1,8 +1,9 @@
 # C++
 
 Compile: `g++  hola.cpp -o hola`
-
 Execute: `./hola`
+
+Compile with other files: `g++  globalvariable.cpp -I /XXXXXXX/c++/ -o globalvariable`
 
 source.bash
 ```
